@@ -1,0 +1,74 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    background-color: beige;
+}
+.nav-bar {
+    font-size: 20px;
+    background-color: #96CA90;
+    color: blueviolet;
+    display: flex;
+    justify-content: flex-end;
+    align-items: left;
+    padding: 10px;
+    list-style: none;
+    margin-bottom: -5px;
+}
+li a {
+    padding: 10px;
+    
+}
+.title {
+    padding-top: 30px;
+}
+.btn {
+    background-color: rgb(129, 180, 96);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.main {
+    background-image: url("https://us.123rf.com/450wm/123rfanton/123rfanton1904/123rfanton190400006/122696368-frame-of-fresh-vegetables-and-fruits-isolated-on-white-background-with-copy-space-for-text.jpg?ver=6");
+    text-align: center;
+    background-color: rgb(164, 191, 164);
+    padding: 8px 10px;
+    color: black;
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: -20px;
+}
+
+.container {
+    background-color: beige;
+    color: #4C4941;
+    margin-top: -10px;
+   
+}
+.know-us {
+    padding: 8px 10px;
+}
+.contact-image {
+    width: 150px;
+    border-radius: 50%;
+    float: left;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+.ang:hover {
+    color: green;
+}
+.kri:hover {
+    color: rgb(43, 189, 226);
+}
+.eli:hover {
+    color: rgb(170, 0, 255);
+}
+.final {
+    padding: 10px;
+    text-align: center;
+}
+
+
+.closing {
+    color: #998E6C;
+}

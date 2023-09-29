@@ -1,0 +1,81 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(121, 84, 41);
+    
+}
+#nav-bar {
+    display: flex;
+    justify-content: flex-end;
+    align-items: left;
+    list-style: none;
+    margin-bottom: -5px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: white;
+}
+li a {
+    padding: 10px;
+    color: blueviolet;
+}
+.main {
+    text-align: center;
+    padding: 8px 10px;
+    color: black;
+    background-image: url("https://us.123rf.com/450wm/123rfanton/123rfanton1904/123rfanton190400006/122696368-frame-of-fresh-vegetables-and-fruits-isolated-on-white-background-with-copy-space-for-text.jpg?ver=6");
+    font-size: 20px;
+    font-style: italic;
+    border-bottom: -20px;
+}
+.title {
+    margin-top: 70px;
+    margin-bottom: 35px;
+}
+.navigation {
+    font-size: 30px;;
+}
+
+.btn {
+    color: White;
+    background-color: rgb(117, 169, 206);
+}
+.featured {
+    width: 100px;
+    padding: 10px;
+}
+.second {
+    margin-top: 60px;
+    margin-bottom: 50px;
+    color: white;
+    text-align: center;
+}
+
+#third-heading {
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+#third {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white
+    /**justify-content: center;**/
+}
+#name {
+    margin-left: 10px;
+    padding: 20xp;
+}
+#ingredient-list {
+    padding: 10px;
+}
+#fourth {
+    text-align: center;
+    color: white;
+}
+#tip-and-trick {
+    font-style: italic;
+}
+
+
